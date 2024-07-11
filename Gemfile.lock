@@ -7,7 +7,7 @@ GEM
     json (2.3.0)
     multi_json (1.12.1)
     multi_xml (0.5.5)
-    rack (2.2.6.4)
+    rack (2.2.8.1)
     rack-protection (1.5.5)
       rack
     sinatra (2.2.3)
